@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/category"
+        android:icon="@drawable/ic_folder_special_24dp"
+        android:title="category"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/trash"
+        android:title="trash" />
+</menu>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="addCardViewHorizontalMargin">6dp</dimen>
+    <dimen name="addCardViewVerticalMargin">3dp</dimen>
+    <dimen name="cardViewBarWidth">6dp</dimen>
+</resources>
